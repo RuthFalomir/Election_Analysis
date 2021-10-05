@@ -1,6 +1,6 @@
 # Election_Analysis
 ## Project Overview
-For this project, we were hired by Tom and Seth to analyse the data set from the Colorado Board of Elections.
+For this project, we were hired by Tom and Seth to analyze the data set from the Colorado Board of Elections.
 They have asked us to audit the recent election and to deliver the following:
 * Total number of votes cast
 * A complete list of candidates who received votes
