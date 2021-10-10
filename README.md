@@ -33,7 +33,8 @@ The purpose of this audit was to determine which county had the biggest turnout.
 
 # Election-Audit Results: 
 
-INSERT IMAGE
+Here you can see the audit results, which will be explained further in this report:
+<img width="439" alt="Election Results" src="https://user-images.githubusercontent.com/88563922/136708976-ad28feab-7232-4dd1-9a00-a8d86d9c6fe5.PNG">
 
 How many votes were cast in this congressional election?
 This election had a total of 369,711 votes.
